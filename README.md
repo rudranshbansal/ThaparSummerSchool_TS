@@ -1,6 +1,8 @@
 # ThaparSummerSchool_TS
 Seminar: Unveiling the Power of Time Series Analysis with TSAI Library and hands on learning
 
+PPT Link : (http://surl.li/jbvid)
+
 1. Introduction to Time Series Analysis and its components
 2. Understanding the Fundamentals of Time Series Data (univariate, multivariate)
 3. Exploring the TSAI Library: An Overview and Features
